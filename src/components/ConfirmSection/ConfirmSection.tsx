@@ -1,7 +1,6 @@
-import { Box, Button, Grid2 as Grid, Typography } from "@mui/material"
+import { Button, Grid2 as Grid, Typography } from "@mui/material"
 import Image from "next/image"
 import { CustomTypography } from "../CustomTypography/CustomTypography"
-import { useSearchParams } from "next/navigation"
 import { isMobile } from "react-device-detect";
 
 

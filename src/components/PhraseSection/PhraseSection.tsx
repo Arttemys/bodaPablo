@@ -19,7 +19,6 @@ interface sections {
 }
 
 export const PhraseSection = () => {
-  const [expand, setExpand] = useState<string | null>(null)
 
   const sections: { [key: string]: sections } = {
     DRESS_CODE: {
