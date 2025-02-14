@@ -1,7 +1,6 @@
 import { Box, Grid2 as Grid } from "@mui/material"
 import { CustomTypography } from "../CustomTypography/CustomTypography"
 
-import { useState } from "react";
 import Image from "next/image";
 import { isMobile } from "react-device-detect";
 import styles from '@/components/PlaceSection/PlaceSection.module.css'
