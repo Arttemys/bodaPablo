@@ -26,8 +26,8 @@ const pinyonScriptFont = Pinyon_Script({
 })
 
 export const metadata: Metadata = {
-  title: "Boda Damian y Sofia",
-  description: "Boda damian y sofia",
+  title: "Boda Pablo y Cande",
+  description: "Boda Pablo y Cande",
 };
 
 export default function RootLayout({
